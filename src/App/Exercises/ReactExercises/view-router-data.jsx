@@ -1,5 +1,5 @@
 import { getParsedRouterDataList } from '../../router-data/parseRouterData';
-import { ReactEventsUseStateMetaData } from './ReactEventsUsedState/router-data';
+import { ReactEventsUseStateMetaData } from './ReactEventsUseState/router-data';
 import { ReactIfstatmentsMetadata } from './ReactIfStatments/router-data';
 import { SubRouteExampleMetaData } from './SubRouteExample/router-data';
 import { ReactIfStatmentsMoreOrLessMetaData } from './ReactIfStatmentsMoreOrLess/router-data';

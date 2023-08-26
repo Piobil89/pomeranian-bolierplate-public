@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
-export function reactifstamentsMoreOrLess() {
-  const [inputValue, SetInputValue] = usteState(0);
+export function ReactIfStatmentsMoreOrLess() {
+  const [inputValue, SetInputValue] = useState(0);
   const handleChange = (event) => {
     const newValue = event.target.value;
     SetInputValue(newValue);
