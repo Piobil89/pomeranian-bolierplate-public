@@ -5,11 +5,11 @@
   border-bottom: 2px dotted red;
   padding: 200px;
   background-color: yellow;
-  width: 10%;
+  width: 100%;
   max-width: 800px;
   min-width: 500px;
-  overflow: auto;
 
+  overflow: auto;
   overflow: scroll;
 }
 
