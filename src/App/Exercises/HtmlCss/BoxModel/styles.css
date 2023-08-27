@@ -3,8 +3,14 @@
   margin-top: 50px;
   border: 5px solid blue;
   border-bottom: 2px dotted red;
-  padding: 30px;
+  padding: 200px;
   background-color: yellow;
+  width: 10%;
+  max-width: 800px;
+  min-width: 500px;
+  overflow: auto;
+
+  overflow: scroll;
 }
 
 span {
